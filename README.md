@@ -143,6 +143,10 @@ Grupo 08 do Hackathon Unimar Tech Summit 2026.
 
 <!-- Adicione aqui os integrantes do grupo -->
 - Samuel Rodrigues
+- João Pedro D Oliveira
+- Samuel Souza
+- Miguel Delasare
+- Luis Felipe Petkevicius
 
 ## Observações
 
