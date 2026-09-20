@@ -1,0 +1,13 @@
+# Tema alinhado à identidade visual da Sisfrete (fundo verde-escuro + verde neon)
+[theme]
+base = "dark"
+primaryColor = "#00ff9d"
+backgroundColor = "#04140e"
+secondaryBackgroundColor = "#0b1b15"
+textColor = "#f5f7f6"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

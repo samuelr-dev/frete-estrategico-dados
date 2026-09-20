@@ -1,0 +1,21 @@
+# Credenciais e segredos
+.env
+_env
+.streamlit/secrets.toml
+
+# Dados exportados (os dados da Sisfrete nao podem ser republicados)
+*.csv
+*.xlsx
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editores e sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
